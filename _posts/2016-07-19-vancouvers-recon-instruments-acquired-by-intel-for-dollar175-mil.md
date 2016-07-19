@@ -29,8 +29,8 @@ app_links: []
 isBasedOnUrl: >-
   https://techvibes.com/2015/06/17/recon-instruments-acquired-by-intel-2015-06-17
 title: Vancouver's Recon Instruments Acquired by Intel for $175 Million
-datePublished: '2016-07-19T17:19:13.186Z'
-dateModified: '2016-07-19T17:19:12.987Z'
+datePublished: '2016-07-19T17:19:13.644Z'
+dateModified: '2016-07-19T17:19:13.189Z'
 starred: false
 sourcePath: >-
   _posts/2016-07-19-vancouvers-recon-instruments-acquired-by-intel-for-dollar175-mil.md
